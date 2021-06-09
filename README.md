@@ -27,7 +27,7 @@ Root Mean Squared Error: 0.06994529646522099,
 -
 
 
-*Although, there's a huge difference between the the RMSEs of the Linear and Non-Linear model, But the Results were pretty good for both.
+*Although, there's a huge difference between the the RMSEs of the Linear and Non-Linear model, But the Results were pretty good for both.*
 
 ![image](https://user-images.githubusercontent.com/50799215/121343476-5b319c80-c940-11eb-9b84-3cd1bc4f8570.png)
 
