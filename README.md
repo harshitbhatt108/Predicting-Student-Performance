@@ -8,8 +8,11 @@ Result:
 --
 
 | Model Name         |  MAE  |  MSE   | RMSE   |
+----
 |  Linear Regression | 7.160 | 8.674  | 9.313  |
+----
 | Random Forest      | 0.069 | 0.0048 | 0.0059 |
+----
 
 Although, there's a huge difference between the the RMSEs of the Linear and Non-Linear model, But the Results were pretty good for both.
 
