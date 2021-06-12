@@ -12,27 +12,30 @@ Result:
 
 Linear Regression:
 --
-Mean Absolute Error: 7.160097099899301e-06,
+Mean Absolute Error: 1.167464114832536,
 -
-Mean Squared Error: 8.674754504132077e-11,
+Mean Squared Error: 2.8803827751196174,
 -
-Root Mean Squared Error: 9.313836215079196e-06,
+Root Mean Squared Error: 1.6971690473018937,
 -
 
 
 Random Forest:
 --
-Mean Absolute Error: 0.005980861244019143,
+Mean Absolute Error: 0.9502392344497608,
 -
-Mean Squared Error: 0.004892344497607656,
+Mean Squared Error: 2.0956937799043063,
 -
-Root Mean Squared Error: 0.06994529646522099,
+Root Mean Squared Error: 1.4476511250658102,
 -
 
 
-*Although, there's a huge difference between the the RMSEs of the Linear and Non-Linear model, But the Results were pretty good for both.*
+*There's not a huge difference between the the RMSEs of the Linear and Non-Linear model, and the Results are pretty good for both.*
 
-![image](https://user-images.githubusercontent.com/50799215/121343476-5b319c80-c940-11eb-9b84-3cd1bc4f8570.png)
+
+Confusion Matrix of Random Forest :
+--
+![image](https://user-images.githubusercontent.com/50799215/121773716-4ac92e00-cb9b-11eb-8bb3-485704cf59fc.png)
 
 
 
