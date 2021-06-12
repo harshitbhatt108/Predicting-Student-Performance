@@ -10,7 +10,7 @@ This notebooks includes a regression apparoach to Predict the Student's marks on
 Result:
 --
 
-Linear Regression:
+*Linear Regression:*
 --
 Mean Absolute Error: 1.167464114832536,
 -
@@ -20,7 +20,7 @@ Root Mean Squared Error: 1.6971690473018937,
 -
 
 ------------------------------------------------
-Random Forest:
+*Random Forest:*
 --
 Mean Absolute Error: 0.9502392344497608,
 -
